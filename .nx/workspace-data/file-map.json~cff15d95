@@ -1,0 +1,227 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.4.1",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".git/hooks/commit-msg.sample",
+        "hash": "11930680668000581900"
+      },
+      {
+        "file": "org/apps/nextlearn/package.json",
+        "hash": "3165463587688612248"
+      },
+      {
+        "file": "org/package-lock.json",
+        "hash": "14430245461313547675"
+      },
+      {
+        "file": ".git/objects/06/tmp_obj_Js4UgD",
+        "hash": "3084713935074172505"
+      },
+      {
+        "file": "org/.vscode/extensions.json",
+        "hash": "16884713733442577066"
+      },
+      {
+        "file": "org/apps/nextlearn/tailwind.config.js",
+        "hash": "5937918000814531646"
+      },
+      {
+        "file": ".git/config",
+        "hash": "12502701184254921869"
+      },
+      {
+        "file": "org/.editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": "org/apps/nextlearn/next-env.d.ts",
+        "hash": "1320675027584673186"
+      },
+      {
+        "file": ".git/hooks/pre-push.sample",
+        "hash": "3666369642558647280"
+      },
+      {
+        "file": "org/apps/nextlearn/src/app/api/hello/route.ts",
+        "hash": "495073956729887886"
+      },
+      {
+        "file": "org/apps/nextlearn/public/favicon.ico",
+        "hash": "9303420814833116677"
+      },
+      {
+        "file": "org/apps/nextlearn/next.config.js",
+        "hash": "5443563404894739361"
+      },
+      {
+        "file": "org/apps/nextlearn/.swcrc",
+        "hash": "2742566327615098680"
+      },
+      {
+        "file": "org/README.md",
+        "hash": "6342216160203641214"
+      },
+      {
+        "file": ".git/hooks/fsmonitor-watchman.sample",
+        "hash": "5519580754951798083"
+      },
+      {
+        "file": ".git/hooks/applypatch-msg.sample",
+        "hash": "3740124940738663445"
+      },
+      {
+        "file": "org/eslint.config.mjs",
+        "hash": "10770449096712831357"
+      },
+      {
+        "file": "org/tsconfig.base.json",
+        "hash": "18132073024976155609"
+      },
+      {
+        "file": ".git/hooks/update.sample",
+        "hash": "14696759095365231402"
+      },
+      {
+        "file": "nx.json",
+        "hash": "7157800971759963809"
+      },
+      {
+        "file": ".git/hooks/pre-rebase.sample",
+        "hash": "15784748353859782246"
+      },
+      {
+        "file": "org/apps/nextlearn/src/app/page.tsx",
+        "hash": "10942679232582460072"
+      },
+      {
+        "file": "org/apps/nextlearn/index.d.ts",
+        "hash": "5498222895072842432"
+      },
+      {
+        "file": ".git/hooks/pre-receive.sample",
+        "hash": "8999430056057037490"
+      },
+      {
+        "file": "org/.prettierignore",
+        "hash": "14688272390704683536"
+      },
+      {
+        "file": "org/apps/nextlearn/src/app/layout.tsx",
+        "hash": "17768227939851893254"
+      },
+      {
+        "file": ".git/hooks/sendemail-validate.sample",
+        "hash": "7660090827690999586"
+      },
+      {
+        "file": ".git/hooks/pre-commit.sample",
+        "hash": "2931916916104981897"
+      },
+      {
+        "file": "org/.gitignore",
+        "hash": "17916001417971287321"
+      },
+      {
+        "file": ".git/description",
+        "hash": "6589616779641096119"
+      },
+      {
+        "file": "org/tsconfig.json",
+        "hash": "1484331000099740921"
+      },
+      {
+        "file": ".git/hooks/prepare-commit-msg.sample",
+        "hash": "4009645067798984574"
+      },
+      {
+        "file": ".git/hooks/push-to-checkout.sample",
+        "hash": "5194610557431485830"
+      },
+      {
+        "file": "org/apps/nextlearn/public/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": ".nx/workspace-data/project-graph.json",
+        "hash": "11788318741601635311"
+      },
+      {
+        "file": "org/apps/nextlearn/postcss.config.js",
+        "hash": "2759402739052110475"
+      },
+      {
+        "file": ".git/hooks/pre-merge-commit.sample",
+        "hash": "5691533144974613569"
+      },
+      {
+        "file": "org/package.json",
+        "hash": "8760091447531793132"
+      },
+      {
+        "file": ".git/index.lock",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": ".git/hooks/post-update.sample",
+        "hash": "16498975149454253769"
+      },
+      {
+        "file": "org/.prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "package.json",
+        "hash": "15820602989041504351"
+      },
+      {
+        "file": "org/apps/nextlearn/eslint.config.mjs",
+        "hash": "10818484782922660641"
+      },
+      {
+        "file": "org/apps/nextlearn/src/app/global.css",
+        "hash": "291024361394925992"
+      },
+      {
+        "file": ".git/hooks/pre-applypatch.sample",
+        "hash": "1595391782482835178"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "11982592094176016303"
+      },
+      {
+        "file": "org/nx.json",
+        "hash": "14523292421799602584"
+      },
+      {
+        "file": ".nx/workspace-data/source-maps.json",
+        "hash": "1389868326933519382"
+      },
+      {
+        "file": ".nx/workspace-data/file-map.json",
+        "hash": "488408840660034666"
+      },
+      {
+        "file": ".git/info/exclude",
+        "hash": "2084763735014985388"
+      },
+      {
+        "file": "error.log",
+        "hash": "12578046586907998985"
+      },
+      {
+        "file": ".git/HEAD",
+        "hash": "11710400652189793685"
+      },
+      {
+        "file": "org/apps/nextlearn/tsconfig.json",
+        "hash": "9648837553635047376"
+      }
+    ],
+    "projectFileMap": {}
+  }
+}
