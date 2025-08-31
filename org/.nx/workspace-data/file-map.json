@@ -1,0 +1,168 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.4.1",
+  "pathMappings": {},
+  "nxJsonPlugins": [
+    {
+      "name": "@nx/js/typescript",
+      "options": {
+        "typecheck": {
+          "targetName": "typecheck"
+        },
+        "build": {
+          "targetName": "build",
+          "configName": "tsconfig.lib.json",
+          "buildDepsName": "build-deps",
+          "watchDepsName": "watch-deps"
+        }
+      }
+    },
+    {
+      "name": "@nx/next/plugin",
+      "options": {
+        "startTargetName": "start",
+        "buildTargetName": "build",
+        "devTargetName": "dev",
+        "serveStaticTargetName": "serve-static",
+        "buildDepsTargetName": "build-deps",
+        "watchDepsTargetName": "watch-deps"
+      }
+    },
+    {
+      "name": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "lint"
+      }
+    }
+  ],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "package.json",
+        "hash": "8760091447531793132"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "14688272390704683536"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "16884713733442577066"
+      },
+      {
+        "file": "eslint.config.mjs",
+        "hash": "10770449096712831357"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "18132073024976155609"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "14430245461313547675"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "1484331000099740921"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "17916001417971287321"
+      },
+      {
+        "file": "README.md",
+        "hash": "6342216160203641214"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": "nx.json",
+        "hash": "14523292421799602584"
+      }
+    ],
+    "projectFileMap": {
+      "@org/nextlearn": [
+        {
+          "file": "apps/nextlearn/.swcrc",
+          "hash": "2742566327615098680"
+        },
+        {
+          "file": "apps/nextlearn/eslint.config.mjs",
+          "hash": "10818484782922660641",
+          "deps": [
+            "npm:@eslint/eslintrc",
+            "npm:@eslint/js",
+            "npm:@eslint/compat",
+            "npm:@nx/eslint-plugin"
+          ]
+        },
+        {
+          "file": "apps/nextlearn/index.d.ts",
+          "hash": "5498222895072842432"
+        },
+        {
+          "file": "apps/nextlearn/next-env.d.ts",
+          "hash": "1320675027584673186"
+        },
+        {
+          "file": "apps/nextlearn/next.config.js",
+          "hash": "5443563404894739361",
+          "deps": [
+            "npm:@nx/next"
+          ]
+        },
+        {
+          "file": "apps/nextlearn/package.json",
+          "hash": "3165463587688612248",
+          "deps": [
+            "npm:next",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "apps/nextlearn/postcss.config.js",
+          "hash": "2759402739052110475"
+        },
+        {
+          "file": "apps/nextlearn/public/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/nextlearn/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/nextlearn/src/app/api/hello/route.ts",
+          "hash": "495073956729887886"
+        },
+        {
+          "file": "apps/nextlearn/src/app/global.css",
+          "hash": "291024361394925992"
+        },
+        {
+          "file": "apps/nextlearn/src/app/layout.tsx",
+          "hash": "17768227939851893254"
+        },
+        {
+          "file": "apps/nextlearn/src/app/page.tsx",
+          "hash": "10942679232582460072"
+        },
+        {
+          "file": "apps/nextlearn/tailwind.config.js",
+          "hash": "5937918000814531646"
+        },
+        {
+          "file": "apps/nextlearn/tsconfig.json",
+          "hash": "9648837553635047376"
+        }
+      ]
+    }
+  }
+}

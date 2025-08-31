@@ -5,7 +5,8 @@ out-tsc
 
 # dependencies
 /node_modules
- /org/apps/nextlearn/node_modules
+/org/node_modules
+ /org/apps/nextlearn/node_modules/
 
 # IDEs and editors
 /.idea
@@ -45,3 +46,4 @@ Thumbs.db
 # Next.js
 .next
 out
+node_modules
