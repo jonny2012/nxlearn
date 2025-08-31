@@ -6,144 +6,216 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "org/apps/nextlearn/index.d.ts",
-        "hash": "5498222895072842432"
-      },
-      {
-        "file": "org/apps/nextlearn/src/app/api/hello/route.ts",
-        "hash": "495073956729887886"
-      },
-      {
-        "file": ".nx/workspace-data/source-maps.json",
-        "hash": "1389868326933519382"
-      },
-      {
-        "file": "org/apps/nextlearn/package.json",
-        "hash": "3165463587688612248"
-      },
-      {
-        "file": "org/package-lock.json",
-        "hash": "14430245461313547675"
-      },
-      {
-        "file": "org/apps/nextlearn/public/favicon.ico",
-        "hash": "9303420814833116677"
-      },
-      {
-        "file": "org/apps/nextlearn/src/app/global.css",
-        "hash": "291024361394925992"
-      },
-      {
-        "file": "org/eslint.config.mjs",
-        "hash": "10770449096712831357"
-      },
-      {
         "file": "org/.vscode/extensions.json",
         "hash": "16884713733442577066"
+      },
+      {
+        "file": "nx.json",
+        "hash": "7157800971759963809"
+      },
+      {
+        "file": "org/apps/nextlearn/index.d.ts",
+        "hash": "5498222895072842432"
       },
       {
         "file": "org/apps/nextlearn/eslint.config.mjs",
         "hash": "10818484782922660641"
       },
       {
-        "file": "org/.prettierignore",
-        "hash": "14688272390704683536"
-      },
-      {
-        "file": "org/apps/nextlearn/postcss.config.js",
-        "hash": "2759402739052110475"
-      },
-      {
-        "file": "org/.prettierrc",
-        "hash": "16267754514737964994"
-      },
-      {
-        "file": "org/apps/nextlearn/tailwind.config.js",
-        "hash": "5937918000814531646"
-      },
-      {
-        "file": ".git/config",
-        "hash": "18196632594484720859"
-      },
-      {
-        "file": "org/apps/nextlearn/next-env.d.ts",
-        "hash": "1320675027584673186"
-      },
-      {
-        "file": "org/package.json",
-        "hash": "8760091447531793132"
-      },
-      {
-        "file": "package.json",
-        "hash": "15820602989041504351"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "11982592094176016303"
-      },
-      {
-        "file": "org/apps/nextlearn/.swcrc",
-        "hash": "2742566327615098680"
-      },
-      {
-        "file": "error.log",
-        "hash": "12578046586907998985"
-      },
-      {
-        "file": "org/nx.json",
-        "hash": "14523292421799602584"
-      },
-      {
-        "file": ".nx/workspace-data/project-graph.json",
-        "hash": "1466703697499839590"
-      },
-      {
-        "file": "org/apps/nextlearn/src/app/page.tsx",
-        "hash": "10942679232582460072"
-      },
-      {
-        "file": "org/apps/nextlearn/next.config.js",
-        "hash": "5443563404894739361"
-      },
-      {
-        "file": "org/tsconfig.json",
-        "hash": "1484331000099740921"
-      },
-      {
-        "file": "org/.editorconfig",
-        "hash": "5443105041930014821"
-      },
-      {
-        "file": "org/tsconfig.base.json",
-        "hash": "18132073024976155609"
-      },
-      {
-        "file": ".nx/workspace-data/file-map.json",
-        "hash": "15309665228722260408"
-      },
-      {
-        "file": "org/apps/nextlearn/tsconfig.json",
-        "hash": "9648837553635047376"
-      },
-      {
-        "file": ".git/objects/df/tmp_obj_wjBLA7",
-        "hash": "13354153567624170621"
-      },
-      {
-        "file": "org/apps/nextlearn/src/app/layout.tsx",
-        "hash": "17768227939851893254"
-      },
-      {
-        "file": ".git/index.lock",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "org/README.md",
-        "hash": "6342216160203641214"
+        "file": ".git/objects/28/96f1e353b8731c013da86c92ffc30843df9741",
+        "hash": "8942687695238992275"
       },
       {
         "file": "org/.gitignore",
         "hash": "5536557714843138510"
       },
       {
-        "file": "nx.js
+        "file": ".nx/workspace-data/project-graph.json",
+        "hash": "9522313065497543608"
+      },
+      {
+        "file": "org/tsconfig.base.json",
+        "hash": "18132073024976155609"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "11982592094176016303"
+      },
+      {
+        "file": ".git/objects/20/tmp_obj_VO5ht6",
+        "hash": "290584278296147187"
+      },
+      {
+        "file": ".git/objects/09/c1120119cc7c7781a919822fffe4543ab8fb95",
+        "hash": "16813597573049218158"
+      },
+      {
+        "file": "package.json",
+        "hash": "15820602989041504351"
+      },
+      {
+        "file": "org/eslint.config.mjs",
+        "hash": "10770449096712831357"
+      },
+      {
+        "file": ".git/objects/ec/eacbcaffa08355e1a8954e32096b8988b43037",
+        "hash": "10610308307040903298"
+      },
+      {
+        "file": ".git/objects/12/056a4c4620d42605e77da1297a97128273c309",
+        "hash": "5814770693739313473"
+      },
+      {
+        "file": "org/apps/nextlearn/tailwind.config.js",
+        "hash": "5937918000814531646"
+      },
+      {
+        "file": "org/apps/nextlearn/next-env.d.ts",
+        "hash": "1320675027584673186"
+      },
+      {
+        "file": "org/apps/nextlearn/next.config.js",
+        "hash": "5443563404894739361"
+      },
+      {
+        "file": ".git/objects/f0/b4b4121f72fe7afddbeb534e1b1e30c914ec52",
+        "hash": "15096775266763679921"
+      },
+      {
+        "file": "org/apps/nextlearn/.swcrc",
+        "hash": "2742566327615098680"
+      },
+      {
+        "file": "org/nx.json",
+        "hash": "14523292421799602584"
+      },
+      {
+        "file": ".git/index",
+        "hash": "7633548315150958428"
+      },
+      {
+        "file": "org/apps/nextlearn/src/app/api/hello/route.ts",
+        "hash": "495073956729887886"
+      },
+      {
+        "file": ".git/objects/ad/209c3a19d721ac4d97840f25affde30f85430d",
+        "hash": "4164092032157459001"
+      },
+      {
+        "file": "org/.prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "org/package-lock.json",
+        "hash": "14430245461313547675"
+      },
+      {
+        "file": ".git/objects/9e/26dfeeb6e641a33dae4961196235bdb965b21b",
+        "hash": "16612432564154210891"
+      },
+      {
+        "file": "org/apps/nextlearn/tsconfig.json",
+        "hash": "9648837553635047376"
+      },
+      {
+        "file": "org/apps/nextlearn/public/favicon.ico",
+        "hash": "9303420814833116677"
+      },
+      {
+        "file": "org/package.json",
+        "hash": "8760091447531793132"
+      },
+      {
+        "file": ".git/objects/ca/c5d0953fcf53c65d97750576b83870fe10106e",
+        "hash": "5808305942664796781"
+      },
+      {
+        "file": ".git/COMMIT_EDITMSG",
+        "hash": "10681356083581819587"
+      },
+      {
+        "file": ".git/logs/HEAD",
+        "hash": "15128564768756797738"
+      },
+      {
+        "file": ".git/refs/heads/main",
+        "hash": "3784436392359972054"
+      },
+      {
+        "file": ".nx/workspace-data/project-graph.json~2011d5df",
+        "hash": "13922900647672008914"
+      },
+      {
+        "file": "org/apps/nextlearn/postcss.config.js",
+        "hash": "2759402739052110475"
+      },
+      {
+        "file": ".git/objects/33/b8a575a5a8f1c60bec1ebea86e431e849d65b7",
+        "hash": "11494933499595767841"
+      },
+      {
+        "file": "org/.prettierignore",
+        "hash": "14688272390704683536"
+      },
+      {
+        "file": "org/apps/nextlearn/public/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": ".git/logs/refs/heads/main",
+        "hash": "1262805532747236566"
+      },
+      {
+        "file": ".git/objects/5d/3f1037b6ab22b6ebfd64af50cdffd732ccb04e",
+        "hash": "18135048667790995692"
+      },
+      {
+        "file": "org/README.md",
+        "hash": "6342216160203641214"
+      },
+      {
+        "file": "org/apps/nextlearn/src/app/layout.tsx",
+        "hash": "17768227939851893254"
+      },
+      {
+        "file": ".nx/workspace-data/file-map.json",
+        "hash": "13227280169711075635"
+      },
+      {
+        "file": ".nx/workspace-data/d/daemon.log",
+        "hash": "6224309022651314380"
+      },
+      {
+        "file": "error.log",
+        "hash": "12578046586907998985"
+      },
+      {
+        "file": "org/.editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": "org/tsconfig.json",
+        "hash": "1484331000099740921"
+      },
+      {
+        "file": ".git/config",
+        "hash": "18196632594484720859"
+      },
+      {
+        "file": "org/apps/nextlearn/package.json",
+        "hash": "3165463587688612248"
+      },
+      {
+        "file": "org/apps/nextlearn/src/app/global.css",
+        "hash": "291024361394925992"
+      },
+      {
+        "file": ".nx/workspace-data/source-maps.json",
+        "hash": "1389868326933519382"
+      },
+      {
+        "file": "org/apps/nextlearn/src/app/page.tsx",
+        "hash": "10942679232582460072"
+      },
+      {
+        "file": ".git/objects/df/d85cfc5760ac0d16117
